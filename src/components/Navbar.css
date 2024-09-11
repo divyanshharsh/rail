@@ -1,0 +1,62 @@
+/* General navbar style */
+.navbar-custom {
+    padding: 1rem 0;
+    border-bottom: 1px solid #e0e0e0;
+  }
+  
+  /* RailMadad Logo and Text */
+  .brand-text {
+    font-size: 28px;
+    color: #6A0D2D; /* Dark red/maroon */
+    font-weight: bold;
+    margin: 0;
+  }
+  
+  .brand-subtext {
+    font-size: 14px;
+    color: #666666;
+    margin-top: -5px;
+  }
+  
+  /* 139 Button */
+  .call-button {
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+    background-color: #f99c34;
+    border: none;
+    padding: 10px 20px;
+  }
+  
+  .call-icon {
+    font-size: 20px;
+    margin-right: 8px;
+  }
+  
+  .call-text {
+    font-size: 14px;
+    color: #333;
+    margin-left: 10px;
+  }
+  
+  /* Buttons */
+  button {
+    font-size: 14px;
+    font-weight: 500;
+    border-radius: 5px;
+    padding: 5px 15px;
+  }
+  
+  .mic-button, .accessibility-button {
+    padding: 5px;
+    font-size: 16px;
+  }
+  
+  /* Language Selector */
+  .language-selector {
+    font-size: 14px;
+    padding: 5px;
+    width: 90px;
+    border-radius: 5px;
+  }
+  

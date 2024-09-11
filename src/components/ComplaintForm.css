@@ -1,0 +1,42 @@
+/* ComplaintForm.css */
+
+.form-control {
+    border-radius: 0.25rem;
+  }
+  
+  .form-group {
+    margin-bottom: 1rem;
+  }
+  
+  button {
+    margin-top: 0.5rem;
+  }
+  
+  button:focus {
+    box-shadow: none;
+  }
+  
+  .mt-4 {
+    margin-top: 1.5rem;
+  }
+  
+  .text-center {
+    text-align: center;
+  }
+  
+  .custom-file-upload {
+    border: 1px solid #ced4da;
+    display: inline-block;
+    padding: 6px 12px;
+    cursor: pointer;
+  }
+  
+  .custom-file-upload:hover {
+    background-color: #e9ecef;
+  }
+  
+  textarea {
+    border-radius: 0.25rem;
+  }
+  
+  
